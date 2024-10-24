@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Creating backup file for ~/.conkyrc at ~/.conkyrc.bak "
+cat ~/.conkyrc > ~/.conkyrc.bak
+echo "Updating ~/.conkyrc with aqua theme"
+cat conkyrc_aqua > ~/.conkyrc
+echo "Completed."
