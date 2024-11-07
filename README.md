@@ -1,5 +1,6 @@
-### Conky Github Page
-![Conky](https://github.com/brndnmtthws/conky)
-
 ### This Settings Preview:
 ![](preview.png)
+
+### Link for Conky application repository:
+![Conky](https://github.com/brndnmtthws/conky)
+
