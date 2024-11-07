@@ -1,4 +1,4 @@
-### Link for Conky project repository:
+### Conky project repository:
 https://github.com/brndnmtthws/conky
 
 ### Aqua monitor preview:
