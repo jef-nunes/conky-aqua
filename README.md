@@ -1,7 +1,7 @@
 ### Conky project repository:
 https://github.com/brndnmtthws/conky
 
-### Aqua monitor preview:
+### Theme preview:
 ![](preview.png)
 
 
